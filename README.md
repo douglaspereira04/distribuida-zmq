@@ -30,7 +30,7 @@ Os sistema resolve contas. Uma "conta" é uma expressão consistindo de somas, s
 
 Foram obtidas expressões através do código da ferramenta encontrada https://github.com/dshepsis/ExpressionGenerator
 
-O sistema é composto por 5 procesos:
+O sistema é composto por 5 processos:
 	
 	- Processo que gera contas, definido em "conta.c". Esse processo publica contas à serem resolvidas. A publicação tem um identificador numérico no início, para indicar a publicação à um resolvedor.
 	
